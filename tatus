@@ -1,0 +1,71 @@
+[33mcommit 39a19cdff53fd05833ea62e77dd4898731e07766[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdevelop[m[33m, [m[1;31morigin/develop[m[33m)[m
+Author: RafaelxSouto <rafaelxsouto@proton.me>
+Date:   Fri Jul 18 20:34:30 2025 -0300
+
+    mais lidas grid
+
+[33mcommit 995963592b72aee472f0df04e39ff6d3be049cc5[m
+Author: RafaelxSouto <rafaelxsouto@proton.me>
+Date:   Fri Jul 18 19:13:05 2025 -0300
+
+    Estruturado seção mais lida
+
+[33mcommit 2fdf74226ab1949087191d2b70e307c6d30c2285[m
+Author: RafaelxSouto <rafaelxsouto@proton.me>
+Date:   Fri Jul 18 18:33:43 2025 -0300
+
+    finalizando seção destaques
+
+[33mcommit ee17b315884f182f60ddfd8d09656a927ecda126[m
+Author: RafaelxSouto <rafaelxsouto@proton.me>
+Date:   Fri Jul 18 17:49:51 2025 -0300
+
+    ajustando conteúdo do card
+
+[33mcommit edc245fb2e8a417e5edebb06c43f4563761187a7[m
+Author: RafaelxSouto <rafaelxsouto@proton.me>
+Date:   Fri Jul 18 16:42:12 2025 -0300
+
+    adicionado gradiente
+
+[33mcommit 8a11dd82bdb7744bc123091e013266e31f3a7944[m
+Author: RafaelxSouto <rafaelxsouto@proton.me>
+Date:   Fri Jul 18 16:21:07 2025 -0300
+
+    Estruturando a seção destaques
+
+[33mcommit a750313f8103009f797207f4be72adc03dda7d10[m
+Author: RafaelxSouto <rafaelxsouto@proton.me>
+Date:   Fri Jul 18 15:52:55 2025 -0300
+
+    style: ajuste gap secondary
+
+[33mcommit 785bbe5e8ec93bb76a10e942cfe6f02d646d0c79[m
+Author: RafaelxSouto <rafaelxsouto@proton.me>
+Date:   Fri Jul 18 15:51:41 2025 -0300
+
+    style: header estruturado e personalizado
+
+[33mcommit 9904416a9b7194624bf7773850697d0c65374328[m
+Author: RafaelxSouto <rafaelxsouto@proton.me>
+Date:   Fri Jul 18 15:20:46 2025 -0300
+
+    style: imports assets img, icons
+
+[33mcommit 153f11ee4ee76a991516d5865e56c80221382316[m
+Author: RafaelxSouto <rafaelxsouto@proton.me>
+Date:   Fri Jul 18 15:07:19 2025 -0300
+
+    style: fonts importadas e aplicadas
+
+[33mcommit e94acb73484012a370d182d3551f11e23d69c4bd[m
+Author: RafaelxSouto <rafaelxsouto@proton.me>
+Date:   Fri Jul 18 14:56:14 2025 -0300
+
+    style: style-guide
+
+[33mcommit 129152fb251f18aaa62e00d21fcc1bba7d32dba3[m
+Author: RafaelxSouto <rafaelxsouto@proton.me>
+Date:   Fri Jul 18 14:49:45 2025 -0300
+
+    init project

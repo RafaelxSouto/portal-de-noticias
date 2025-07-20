@@ -1,4 +1,4 @@
-section header {
+"section header {
   border-top: 1px solid var(--stroke-color);
   padding-block: 12px 24px;
   font: var(--text-span);
@@ -73,3 +73,4 @@ a {
     }
   }
 }
+"
