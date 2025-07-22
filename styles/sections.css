@@ -1,4 +1,4 @@
-"section header {
+section header {
   border-top: 1px solid var(--stroke-color);
   padding-block: 12px 24px;
   font: var(--text-span);
@@ -54,8 +54,9 @@ a {
   }
 }
 
+/* mais lidas */
 #weekly {
-  header & > div {
+  & > div {
     grid-template-columns: repeat(4, 292px);
   }
 
@@ -71,6 +72,10 @@ a {
       top: 8px;
       left: 8px;
     }
+
+    p{
+      margin-top: 8px;
+      font-weight: 800;
+    }
   }
 }
-"
